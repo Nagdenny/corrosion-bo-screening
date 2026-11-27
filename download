@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated results (re-created by the scripts)
+results/
+reduced_feature_results/
+*.alignment.json
+
+# Large print-resolution figures (PNG/PDF/SVG are kept)
+*.tiff
+*.tif
+
+# Datasets: see data/README.md (remove this line if redistribution is permitted)
+data/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

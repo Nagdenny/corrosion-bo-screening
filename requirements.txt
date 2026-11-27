@@ -1,0 +1,9 @@
+# Core dependencies. To record the exact versions used for the paper,
+# run `pip freeze > requirements-lock.txt` in your working environment.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+xgboost>=2.0
+matplotlib>=3.7
+jupyter

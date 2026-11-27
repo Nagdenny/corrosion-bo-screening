@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "Bayesian Optimization for Efficient Screening of Alloys with Enhanced Corrosion Resistance"
+authors:
+  - given-names: Abdulganiyu Kehinde
+    family-names: Nageri
+  - given-names: Furong
+    family-names: Chen
+  - given-names: Bo
+    family-names: Zhao
+  - given-names: Hongbin
+    family-names: Zhang
+license: MIT
+# After publication, add:  doi: 10.xxxx/xxxxx

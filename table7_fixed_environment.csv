@@ -1,0 +1,11 @@
+mode,strategy,tests_mean,tests_std,found_within_3_pct,found_within_5_pct,resistant_in_first_10
+transfer,EI,1.71,0.86,97.21,99.53,5.82
+transfer,PI,1.78,0.94,98.6,99.07,6.39
+transfer,UCB,2.06,1.48,86.51,97.67,7.37
+transfer,Greedy,1.7,0.91,98.14,99.53,9.05
+transfer,Random,2.52,2.21,78.6,90.7,4.45
+cold,EI,2.56,1.94,69.77,90.7,6.33
+cold,PI,2.59,2.06,69.77,88.37,7.31
+cold,UCB,2.5,1.87,70.23,92.56,5.65
+cold,Greedy,2.77,2.47,69.77,87.44,7.35
+cold,Random,2.52,2.21,78.6,90.7,4.45
